@@ -1,0 +1,54 @@
+au/id/bjf/sudoku/SudokuUtils.java
+ au.id.bjf.sudoku.SudokuUtils
+com/example/springboot/Sudoku.java
+ com.example.springboot.Sudoku
+au/id/bjf/dlx/DLXResultProcessor.java
+ au.id.bjf.dlx.DLXResultProcessor
+au/id/bjf/sudoku/swing/SudokuPanel.java
+ au.id.bjf.sudoku.swing.SudokuPanel
+au/id/bjf/sudoku/dlx/DLXSudokuSolver.java
+ au.id.bjf.sudoku.dlx.CellCoordinatesLabel
+ au.id.bjf.sudoku.dlx.CellValueLabel
+ au.id.bjf.sudoku.dlx.ColumnLabel
+ au.id.bjf.sudoku.dlx.ColumnValueLabel
+ au.id.bjf.sudoku.dlx.DLXSudokuSolver
+ au.id.bjf.sudoku.dlx.DLXSudokuSolver$CountingOnlyDLXResultProcessor
+ au.id.bjf.sudoku.dlx.RegionValueLabel
+ au.id.bjf.sudoku.dlx.RowValueLabel
+au/id/bjf/sudoku/SudokuCheckFlags.java
+ au.id.bjf.sudoku.SudokuCheckFlags
+au/id/bjf/dlx/NullResultProcessor.java
+ au.id.bjf.dlx.NullResultProcessor
+au/id/bjf/dlx/DLX.java
+ au.id.bjf.dlx.DLX
+com/example/springboot/HelloController.java
+ com.example.springboot.HelloController
+au/id/bjf/sudoku/killer/Permutation.java
+ au.id.bjf.sudoku.killer.Permutation
+au/id/bjf/dlx/data/DataObject.java
+ au.id.bjf.dlx.data.DataObject
+au/id/bjf/dlx/data/ColumnObject.java
+ au.id.bjf.dlx.data.ColumnObject
+com/example/springboot/Test.java
+ com.example.springboot.Test
+com/example/springboot/SudokuController.java
+ com.example.springboot.SudokuController
+ com.example.springboot.SudokuController$1
+au/id/bjf/sudoku/SudokuSolver.java
+ au.id.bjf.sudoku.SudokuSolver
+au/id/bjf/sudoku/SudokuException.java
+ au.id.bjf.sudoku.SudokuException
+com/example/springboot/Application.java
+ com.example.springboot.Application
+au/id/bjf/dlx/DLXException.java
+ au.id.bjf.dlx.DLXException
+au/id/bjf/dlx/SimpleDLXResultProcessor.java
+ au.id.bjf.dlx.SimpleDLXResultProcessor
+au/id/bjf/dlx/DLXResult.java
+ au.id.bjf.dlx.DLXResult
+com/example/springboot/TestController.java
+ com.example.springboot.TestController
+au/id/bjf/dlx/data/DebugDataObject.java
+ au.id.bjf.dlx.data.DebugDataObject
+au/id/bjf/sudoku/killer/Permutations.java
+ au.id.bjf.sudoku.killer.Permutations
